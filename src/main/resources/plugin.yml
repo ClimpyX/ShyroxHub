@@ -1,0 +1,36 @@
+main: com.shyrox.ShyroxHub
+
+name: ShyroxHub
+version: 1.0
+description: "Shyrox sunucusunun kendine özel tasarlanmış Hub eklentisidir."
+
+author:
+  - ClimpyX
+
+depend:
+  - TitleAPI
+
+commands:
+  broadcast:
+
+  clearchat:
+
+  fly:
+
+  gamemode:
+    aliases:
+      - gm
+      -
+  ping:
+
+  day:
+
+  night:
+
+  setspawn:
+
+  spawn:
+
+  world:
+
+  discord:

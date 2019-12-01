@@ -1,0 +1,22 @@
+sunucu:
+  isim: Lobi
+
+scoreboard:
+  renk: LIGHT_PURPLE
+  baslik: Shyrox Network
+  website: shyrox.network
+
+spawn:
+  world: TestLobi
+  x: 5
+  y: 15
+  z: 5
+  yaw: -90
+  pitch: -0.40
+
+alan:
+  buyukluk: 50
+
+
+op:
+  sifre: shyroxopdefaultpass
